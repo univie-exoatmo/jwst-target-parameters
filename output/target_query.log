@@ -1,0 +1,56 @@
+root - INFO - Compiling results for jwst_cycle_1.csv
+root - INFO - Querying NASA EPA for 69 targets:
+['55 Cnc e' 'GJ 1132 b' 'GJ 1214 b' 'GJ 3470 b' 'GJ 357 b' 'GJ 367 b'
+ 'GJ 436 b' 'GJ 486 b' 'HAT-P-1 b' 'HAT-P-12 b' 'HAT-P-26 b' 'HATS-72 b'
+ 'HD 149026 b' 'HD 15337 b' 'HD 15337 c' 'HD 189733 b' 'HD 209458 b'
+ 'HD 80606 b' 'HIP 67522 b' 'K2-141 b' 'K2-18 b' 'Kepler-51 b'
+ 'Kepler-51 d' 'L 168-9 b' 'L 98-59 c' 'L 98-59 d' 'LHS 1140 b'
+ 'LHS 3844 b' 'LP 791-18 b' 'LTT 1445 A b' 'LTT 9779 b' 'NGTS-10 b'
+ 'TOI-260 b' 'TOI-421 b' 'TOI-776 b' 'TOI-776 c' 'TOI-836 b' 'TOI-836 c'
+ 'LHS 475 b' 'TOI-178 b' 'TOI-178 d' 'TOI-178 g' 'TOI-741.01'
+ 'TRAPPIST-1 b' 'TRAPPIST-1 c' 'TRAPPIST-1 d' 'TRAPPIST-1 e'
+ 'TRAPPIST-1 f' 'TRAPPIST-1 g' 'TRAPPIST-1 h' 'V1298 Tau b' 'V1298 Tau c'
+ 'WASP-107 b' 'WASP-121 b' 'WASP-127 b' 'WASP-166 b' 'WASP-17 b'
+ 'WASP-178 b' 'WASP-18 b' 'WASP-19 b' 'WASP-39 b' 'WASP-43 b' 'WASP-52 b'
+ 'WASP-63 b' 'WASP-69 b' 'WASP-77 A b' 'WASP-80 b' 'WASP-96 b'
+ 'WD 1856+534 b']
+root - INFO - All queries are made to the 'pscomppars' table (https://exoplanetarchive.ipac.caltech.edu/docs/API_PS_columns.html) , which means they might not be entirely self-consistent!
+root - WARNING - The following 1 target(s) could not be queried in the EPA:
+['TOI-741.01']
+root - INFO - Saving results...
+
+root - INFO - Compiling results for jwst_cycle_2.csv
+root - INFO - Querying NASA EPA for 58 targets:
+['GJ 3090 b' 'GJ 3473 b' 'GJ 357 b' 'GJ 9827 d' 'HAT-P-1 b' 'HAT-P-11 b'
+ 'HAT-P-30 b' 'HAT-P-65 b' 'HATS-6 b' 'HATS-75 b' 'HD 106315 c'
+ 'HD 260655 b' 'K2-22 b' 'KELT-7 b' 'Kepler-12 b' 'PH2 b' 'TOI-270 b'
+ 'TOI-270 d' 'L 98-59 b' 'L 98-59 c' 'L 98-59 d' 'LHS 1140 c' 'LHS 1478 b'
+ 'LHS 3844 b' 'LTT 3780 b' 'LTT 3780 c' 'LTT 9779 b' 'NGTS-2 b'
+ 'TOI-1130 b' 'TOI-1130 c' 'TOI-1231 b' 'TOI-125 b' 'TOI-125 c'
+ 'TOI-1468 b' 'TOI-1468 c' 'TOI-1685 b' 'TOI-1899 b' 'TOI-2445 b'
+ 'TOI-3235 b' 'TOI-3714 b' 'TOI-3757 b' 'TOI-3984 A b' 'TOI-5205 b'
+ 'TOI-5293 A b' 'TOI-561 b' 'TOI-824 b' 'TRAPPIST-1 b' 'TRAPPIST-1 c'
+ 'TrES-4 b' 'WASP-121 b' 'WASP-15 b' 'WASP-189 b' 'WASP-47 e' 'WASP-52 b'
+ 'WASP-69 b' 'WASP-94 A b' 'WASP-96 b' 'LHS 1140 b']
+root - INFO - All queries are made to the 'pscomppars' table (https://exoplanetarchive.ipac.caltech.edu/docs/API_PS_columns.html) , which means they might not be entirely self-consistent!
+root - INFO - All targets queried successfully!
+root - INFO - Saving results...
+
+root - INFO - Compiling results for jwst_cycle_3.csv
+root - INFO - Querying NASA EPA for 57 targets:
+['AU Mic b' 'GJ 3470 b' 'GJ 486 b' 'GJ 9827 b' 'HAT-P-1 b' 'HAT-P-11 b'
+ 'HAT-P-12 b' 'HAT-P-18 b' 'HAT-P-30 b' 'HATS-72 b' 'HD 20329 b'
+ 'HD 207496 b' 'HD 3167 b' 'KELT-7 b' 'KELT-8 b' 'LP 791-18 d' 'NGTS-2 b'
+ 'PSR J2322-2650 b ' 'TOI-1075 b' 'TOI-1416 b' 'TOI-1442 b' 'TOI-1807 b'
+ 'TOI-199 b' 'TOI-2076 b' 'TOI-2076 c' 'TOI-2076 d' 'TOI-3844.01'
+ 'TOI-3884 b' 'TOI-4010 b' 'TOI-4010 c' 'TOI-4010 d' 'TOI-431 b'
+ 'TOI-4336.01' 'GJ 806 b' 'TOI-451 c' 'TOI-451 d' 'TOI-500 b' 'TOI-561 b'
+ 'TOI-700 d' 'TOI-700 e' 'TOI-849 b' 'TRAPPIST-1 b' 'TRAPPIST-1 c'
+ 'TRAPPIST-1 e' 'V1298 Tau c' 'V1298 Tau d' 'V1298 Tau e' 'WASP-103 b'
+ 'WASP-12 b' 'WASP-19 b' 'WASP-39 b' 'WASP-6 b' 'WASP-63 b' 'WASP-69 b'
+ 'WASP-76 b' 'WASP-80 b' 'WASP-94 A b']
+root - INFO - All queries are made to the 'pscomppars' table (https://exoplanetarchive.ipac.caltech.edu/docs/API_PS_columns.html) , which means they might not be entirely self-consistent!
+root - WARNING - The following 3 target(s) could not be queried in the EPA:
+['PSR J2322-2650 b ' 'TOI-3844.01' 'TOI-4336.01']
+root - INFO - Saving results...
+
